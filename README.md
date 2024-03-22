@@ -20,9 +20,9 @@ O modelo foi estruturado seguindo as diretrizes dos tutoriais:
 
 ## Estrutura do Repositório
 
-- `model/`: Inclui o passo a passo do modelo treinado e os scripts necessários para sua configuração através dos links da documentação principal. 
+- `models/`: Inclui o passo a passo do modelo treinado e os scripts necessários para sua configuração através dos links da documentação principal. 
 - `data/`: Contém os conjuntos de dados utilizados no treinamento do modelo.
-- `references/`: Oferece documentação complementar e referências bibliográficas.
+  
 
 ## Descrição do Modelo
 
@@ -40,7 +40,13 @@ Encorajamos contribuições para aprimorar o estudo dos modelos de Machine Learn
 
 ## Licença
 
-Este projeto é disponibilizado sob a Licença MIT, conforme detalhado no arquivo `LICENSE`.
+Este projeto é disponibilizado sob a Licença MIT, conforme detalhado no arquivo
+`LICENSE`.
+## Referências
+- [Azure AI Services](https://azure.microsoft.com/en-us/products/ai-services/)
+- [Automated Machine Learning (AutoML)](https://learn.microsoft.com/en-us/azure/machine-learning/concept-automated-ml?view=azureml-api-2)
+- [Microsoft Azure AI Fundamentals Bootcamp](https://www.dio.me/bootcamp/microsoft-azure-ai-fundamentals)
+
 
 ## Contato
 
