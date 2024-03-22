@@ -1,1 +1,1 @@
-# Configuração-de-Modelo-de-Regress-o-com-AZURE-Machinee-Learning-
+# Configuração-de-Modelo-de-Regressão-com-AZURE-Machinee-Learning-
